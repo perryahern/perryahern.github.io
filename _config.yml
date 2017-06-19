@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+     <h1>Designer. Developer.<br>Writer. Dreamer.<br>Dad.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -22,12 +22,12 @@ theme_settings:
   email_address: "pahern@gmail.com"
   behance:
   bitbucket:
-  dribbble: 
-  facebook: 
+  dribbble:
+  facebook:
   flickr:
   github: "perryahern"
   google_plus:
-  instagram: 
+  instagram:
   linkedin:  "https://www.linkedin.com/in/perryahern/"
   pinterest:
   reddit:
