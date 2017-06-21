@@ -4,7 +4,6 @@ title: Bloc Chat
 feature-img: "img/sample_feature_img_3.png"
 thumbnail-path: "img/bloc_chat_thumb.png"
 short-description: Chatting with Bloc Chat!
-
 ---
 #### Summary ####
 As part of my coding education at Bloc, I was tasked with developing an online chat room app using HTML, CSS, JavaScript, and Angular.
