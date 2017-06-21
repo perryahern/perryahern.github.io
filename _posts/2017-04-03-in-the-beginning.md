@@ -1,0 +1,23 @@
+---
+layout: post
+title: In The Beginning
+excerpt_separator: <!--more-->
+---
+In the beginning there was code, but the code was lost.
+
+My journey into the world of technology began long ago, before the Web, before the world knew of the Internet. It began in an elementary school, in an after-school computer club, where a small cluster of Apple IIe computers amazed a small group of students. We played games, we wrote the simplest of BASIC code, and we began our journey into an amazing new world.
+<!--more-->
+
+My first true computer class was taken during the summer of either 1982 or 1983 when a friend convinced me take the class at the high school. We were both in junior high at the time. The class was conducted on monochrome Commodore PET computers, and we wrote BASIC with line numbers. Yes, line numbers! We'd number them by 10s so that we had room to insert lines in between later if needed, and if we ran out of room (we needed to put something between two lines and there were no numbers left) the teacher would run a special program to renumber our lines of code. The most popular game we played was a trucking simulation in text, where we'd pick a load of cargo, set a speed, and respond to problems on the road. Looking back I'm pretty sure it was meant to be educational, as the outcome of it was that driving at 55 mph yielded the fewest problems and achieved the greatest payout.
+
+At the end of that summer class the teacher advised us on the home computers available at the time. This was before PCs, before even really it was common to have Apple computers at home. There were  models like the Timex Sinclair and the TI-99/4a. Most of the models available had 8k of RAM, but a couple had 16k and the teacher assured us that would be more RAM than we'd ever need. Famous last words, huh? I bought one of those systems with 16k, the TI-99/4a, and learned and played my way along for a few years, then bought an Amiga 1000 in high school. That was the first computer I had with a modem, and it introduced my into the fledgling online world populated by BBSs (bulletin board systems) and larger services like Prodigy, CompuServe, and America Online (AOL). At that time all of these systems were standalone services without interconnection, whether it was a small BBS run out of someone's house or Prodigy run by a company with a server farm. Communication happened within that system. They were not connected until years later when the Internet became known and open to the public and services began to take advantage of it while charging hourly rates for access to it.
+
+I started attending college at Rochester Institute of Technology, where I enrolled in the Computer Science program. A friend from high school who was attending Stony Brook University told me about a system that could be used to send messages through a network between universities, so we tried it out. It was great as it would report the stops that the message made along the way at each university until it reached its destination. I don't think I'd heard of the Internet at this time, but looking back I'm pretty sure that was my first use of it. About a year later I had to leave RIT due to financial problems. I attended a community college where I finished my Associates degree in a computer science track. I continued at other schools but I never finished my Bachelors degree. Mistakes I'd made in life combined with a lack of drive and direction to derail me.
+
+Life continued, and I worked largely in fields related to technology, but I didn't return to it. I dabbled here and there, even to go so far as creating a web-based freelancer directory site that ran profitably for five or six years as a side business, but I never returned to it. Until now.
+
+I'd come to a crossroads in my life. The path I was on was not a solid, reliable one. I had no career, just a series of jobs. I wanted a career. I wanted to gain greater stability. I wanted a change. When I thought about it, I admitted to myself I still wanted to code but had been afraid to return to it as it had become so much more complex and with so many possible languages to learn over the years. I discussed it with my wife, and I took the plunge. I was already unemployed and had the time available so I went for it. At first I did a bit of work on my own, then decided to go for a more structured approach and, after a great deal of research, enrolled in the Bloc software developer track.
+
+That's where I find myself today. It's a hard road, but anything worth doing probably isn't easy. I've had my problems, but I'm staying the course. I want this change. I need it. I will achieve it.
+
+The code was lost, but I've begun to find it.

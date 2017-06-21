@@ -1,7 +1,12 @@
 ---
 layout: post
 title: Markdown and HTML
+feature-img: "img/sample_feature_img.png"
 ---
+
+(This is one of the Jekyll theme's sample posts, not one of my own, but I'm keeping it for informational purposes.)
+
+This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
 
 Jeykll supports the use of [Markdown](http://daringfireball.net/projects/markdown/syntax) with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.
 

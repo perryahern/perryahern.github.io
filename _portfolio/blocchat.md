@@ -26,4 +26,4 @@ Regarding the problems that had temporarily derailed me, a new mentor and the re
 I developed a chat app that provides the required functionality and a bit more. I plan to return to it and develop it further in the future.
 
 #### Conclusion ####
-I can do it. I need to believe in myself and not allow external problems and doubts to derail me.  *Persistance, not resistance. Try, try again, bleed, succeed.*
+I can do it. I need to believe in myself and not allow external problems and doubts to derail me.  *Persistence, not resistance. Try, try again, bleed, succeed.*

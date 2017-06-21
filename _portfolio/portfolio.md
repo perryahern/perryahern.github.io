@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Portfolio
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "/img/sample_feature_img_2.png"
 thumbnail-path: "img/portfolio_thumb.png"
 short-description: Showing and growing...
 ---
 
 #### Summary ####
-Next up: Show thw world what you've done by developing a portfolio site.
+Next up: Show the world what you've done by developing a portfolio site.
 
 #### Explanation ####
 Bloc tasked me with creating a portfolio site using a Jekyll theme.
