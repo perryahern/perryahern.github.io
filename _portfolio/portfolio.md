@@ -2,7 +2,7 @@
 layout: post
 title: Portfolio
 feature-img: "/img/sample_feature_img_2.png"
-thumbnail-path: "img/portfolio_thumb.png"
+thumbnail-path: "img/portfolio2.png"
 short-description: Showing and growing...
 ---
 
